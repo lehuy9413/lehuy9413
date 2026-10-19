@@ -20,12 +20,12 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-lehuy9413-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="lehuy9413@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-your--email%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:lehuy9413@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-lehuy9413%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/H.Luwar">
-    <img src="https://img.shields.io/badge/FACEBOOK-profile-000000?style=flat-square&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/FACEBOOK-H.Luwar-000000?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=lehuy9413&style=flat-square&color=ffffff&labelColor=18181b&label=VISITORS" />
