@@ -20,11 +20,11 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-lehuy9413-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="lehuy9413@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-your--email%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://facebook.com">
+  <a href="https://www.facebook.com/H.Luwar">
     <img src="https://img.shields.io/badge/FACEBOOK-profile-000000?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
